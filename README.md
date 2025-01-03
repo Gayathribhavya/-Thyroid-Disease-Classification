@@ -116,25 +116,23 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Main Frame<br>
 ![Chatbot Interface](./images/Picture1.png)<br>
-Admin Screen<br>
+Selecting and uploading dataset file<br>
 ![Chatbot Interface](./images/Picture2.png)<br>
-All users<br>
+Applying Processing technique<br>
 ![Chatbot Interface](./images/Picture3.png)<br>
-Tickets Raised by the users<br>
+Run Decision Tree Algorithm<br>
 ![Chatbot Interface](./images/Picture4.png)<br>
-Adding new FAQ<br>
+Run SVM Algorithm<br>
 ![Chatbot Interface](./images/Picture5.png)<br>
-All FAQs<br>
+Run Random Forest Algorithm<br>
 ![Chatbot Interface](./images/Picture6.png)<br>
-Adding new FAQ which is asked by the user<br>
+Run MLP Algorithm<br>
 ![Chatbot Interface](./images/Picture7.png)<br>
-Signup screen for the user<br>
-![Chatbot Interface](./images/Picture8.png)<br>
-OTP page<br>
-![Chatbot Interface](./images/Picture9.png)<br>
-User Screen<br>
-![Chatbot Interface](./images/Picture10.png)<br>
-Interacting with ChatBot<br>
+Comparision graph<br>
 ![Chatbot Interface](./images/Picture11.png)<br>
-Asking Unknown Question<br>
+accuracy and other metrics<br>
 ![Chatbot Interface](./images/Picture12.png)<br>
+Test data<br>
+![Chatbot Interface](./images/Picture13.png)<br>
+predicted thyroid disease <br>
+![Chatbot Interface](./images/Picture14.png)<br>
